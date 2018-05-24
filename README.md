@@ -184,5 +184,5 @@ curl -X GET --header 'Accept: */*' --header 'Authorization: Bearer eyJhbGciOiJIU
 
 ## License
 
-This Project's source code files are made available under the Apache License, Version 2.0 (Apache-2.0), located in the license file under this repo.
+This Project's source code files are made available under the Apache License, Version 2.0 (Apache-2.0), located in the license file under this repository.
 
